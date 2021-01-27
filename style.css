@@ -160,9 +160,10 @@ hr {
 }
 
 .skills1 li {
-    list-style: none;
+   /* list-style: none;*/
     font-size: 1.3em;
     padding-right: 50px;
+    padding-left: 10px;
     line-height: 1.3em;
     text-align: left;
 }
@@ -172,10 +173,10 @@ hr {
 }
 
 .cert li {
-    list-style: none;
+    /*list-style: none;*/
     font-size: 1.3em;
     text-align: justify;
-    padding-left: 50px;
+    padding-left: 10px;
     line-height: 1.3em;
 }
 
